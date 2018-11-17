@@ -7,6 +7,7 @@ from thulib.network import login, logout
 from thulib.info import info
 from thulib.learn import learn
 from thulib.academic import academic
+from thulib.mails import mails
 
 log = None
 
